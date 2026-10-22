@@ -2,7 +2,7 @@
 
 A Databricks lakehouse project for ingesting Formula 1 data, cleaning it into analytics-ready tables, building driver and constructor statistics, and experimenting with race-winner prediction. The notebooks use Apache Spark, Delta tables, Azure Data Lake Storage Gen2, and a Unity Catalog catalog named `f1_catalog`.
 
-## Project workflow
+## Project Workflow
 
 The notebooks are intended to run in this order:
 
